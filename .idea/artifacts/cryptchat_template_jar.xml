@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cryptchat-template:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cryptchat_template_jar</output-path>
+    <root id="archive" name="cryptchat-template.jar">
+      <element id="module-output" name="cryptchat-template" />
+    </root>
+  </artifact>
+</component>
